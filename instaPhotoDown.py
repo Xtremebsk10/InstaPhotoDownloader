@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import urllib2
-import tkinter
+from Tkinter import *
 
 
 def getPhoto():
